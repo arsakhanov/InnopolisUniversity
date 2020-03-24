@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int randomNumber = (int) (Math.random() * 100);
-        System.out.println(randomNumber);
+
         int userNumber;
         int difOfPrevNumber = randomNumber;     //Переменная для хранения разницы загаданного числа с предыдущим введенным числом
         int difOfNumber;                                      //Переменная для хранения разницы загаданного числа с введенным числом
@@ -25,7 +25,7 @@ public class Main {
                     continueProgram = false;
                 } else if (userNumber == 101){
                         randomNumber = (int) (Math.random() * 100);
-                        System.out.println("Измененное число " + randomNumber);
+
                         System.out.println("Вы изменили число, которое должны отгадать!");
                          }
                     else {

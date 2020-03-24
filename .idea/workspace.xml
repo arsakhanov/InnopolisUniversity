@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyHomeWork/ru/arsakhanov/lesson3/task2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyHomeWork/ru/arsakhanov/lesson3/task2/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson3/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson3/task2/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson3/task2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="153">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -134,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585066945319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585067158343" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,12 +239,20 @@
       <workItem from="1584958633452" duration="1519000" />
       <workItem from="1584965716701" duration="6000" />
       <workItem from="1584994168693" duration="5461000" />
-      <workItem from="1585061718167" duration="5190000" />
+      <workItem from="1585061718167" duration="5403000" />
     </task>
+    <task id="LOCAL-00001" summary="дополнительная задача для дз 3-2">
+      <created>1585066985928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585066985928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14322000" />
+    <option name="totallyTimeSpent" value="14535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -282,6 +291,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="дополнительная задача для дз 3-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="дополнительная задача для дз 3-2" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -339,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson3/task2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
