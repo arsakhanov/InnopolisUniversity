@@ -4,36 +4,40 @@ import java.util.Scanner;
 
 public class Main {
 
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        double randomNumber = (int) (Math.random() * 100);
-        int[] userNumber = new int [100];
-        userNumber[0] = 0;
-        double difOfPrevNumber = randomNumber - 0;     //Переменная для хранения разницы загаданного числа с предыдущим введенным числом
-        double difOfNumber;                                      //Переменная для хранения разницы загаданного числа с введенным числом
-        for (int i= 1; i <= userNumber.length; i++)
-        {
+        int randomNumber = (int) (Math.random() * 100);
+
+        int userNumber;
+        int difOfPrevNumber = randomNumber;     //Переменная для хранения разницы загаданного числа с предыдущим введенным числом
+        int difOfNumber;                                      //Переменная для хранения разницы загаданного числа с введенным числом
+        boolean continueProgram = true;
+        while (continueProgram) {
             System.out.println("Введите число от 1 до 100 или введите цифру 0, если хотите выйти из игры");
-            userNumber[i] = in.nextInt();
-            if (userNumber[i] == 0) {break;}
-            if (userNumber[i] == randomNumber)
-            {
-                System.out.println("Вы отгадали число"); break;
-            }
+            userNumber = in.nextInt();
+            if (userNumber == 0) {
+                continueProgram = false;
+            } else {
 
-            difOfNumber = Math.abs(randomNumber - userNumber[i]); //Здесь вычитывается разница между загаданным и введенным числами
+                if (userNumber == randomNumber) {
+                    System.out.println("Вы отгадали число");
+                    continueProgram = false;
+                } else {
 
-            if (difOfNumber < difOfPrevNumber)
-            {
-                System.out.println("Горячо");
+                    difOfNumber = Math.abs(randomNumber - userNumber); //Здесь вычитывается разница между загаданным и введенным числами
 
-            }
-                else if (difOfNumber > difOfPrevNumber)
-                {
-                    System.out.println("Холодно");
+                    if (difOfNumber < difOfPrevNumber) {
+                        System.out.println("Горячо");
+                    }else if (difOfNumber == difOfPrevNumber){
+                        System.out.println("Средне");
+                    } else  {
+                        System.out.println("Холодно");
+                    }
+                    difOfPrevNumber = difOfNumber;
                 }
+            }
 
-            difOfPrevNumber = difOfNumber;
         }
     }
 }
