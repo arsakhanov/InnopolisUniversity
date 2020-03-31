@@ -6,24 +6,48 @@ public class Book{
     private String bookAuthor;
     private String bookPublishingHouse;
     private int bookPageCount;
+    private Reader owner;
 
+    public Reader getOwner() {
+        return owner;
+    }
 
+    public void setOwner(Reader owner) {
+        this.owner = owner;
+    }
 
-    public void setBook(String bookName, String bookAuthor, String bookPublishingHouse, int bookPageCount){
-
+    public Book (String bookName, String bookAuthor, String bookPublishingHouse, int bookPageCount){
         this.bookName = bookName;
         this.bookAuthor = bookAuthor;
         this.bookPublishingHouse = bookPublishingHouse;
         this.bookPageCount = bookPageCount;
     }
 
-    public int getBook(){
+    public String getBookName() {
+        return bookName;
+    }
 
-        System.out.println("Название книги: " + bookName);
-        System.out.println("Имя автора: " + bookAuthor);
-        System.out.println("Издательство " + bookPublishingHouse);
-        System.out.println("Количество страниц " + bookPageCount);
+    public String getBookAuthor() {
+        return bookAuthor;
+    }
+
+    public String getBookPublishingHouse() {
+        return bookPublishingHouse;
+    }
+
+    public int getBookPageCount() {
         return bookPageCount;
     }
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "bookName='" + bookName + '\'' +
+                ", bookAuthor='" + bookAuthor + '\'' +
+                ", bookPublishingHouse='" + bookPublishingHouse + '\'' +
+                ", bookPageCount=" + bookPageCount +
+                '}';
+    }
+
 }
 

@@ -1,12 +1,13 @@
 package ru.arsakhanov.lesson6;
 
 
-public class Reader extends Book {
+public class Reader {
 
     private String readerFullName;
     private String readerAddress;
     private int readerPhoneNumber;
     private int readerAge;
+    private Book handBook;
 
 
     public  int getReader(){
@@ -15,12 +16,22 @@ public class Reader extends Book {
         System.out.println("Адрес читателя: " + readerAddress);
         System.out.println("Номер телефона читателя: " + readerPhoneNumber);
         System.out.println("Возраст читателя: " + readerAge);
+        System.out.println("Книга на руках: " + handBook);
 
         return readerAge;
     }
 
+    public void giveBook(Book inputBook){
+        handBook = inputBook;
+        handBook.setOwner(this);
+    }
 
-    public void setReader(String readerFullName, String readerAddress, int readerPhoneNumber, int readerAge){
+    public void returnBook(){
+        handBook.setOwner(null);
+        handBook = null;
+    }
+
+    public Reader(String readerFullName, String readerAddress, int readerPhoneNumber, int readerAge){
 
         this.readerFullName = readerFullName;
         this.readerAddress = readerAddress;
@@ -28,15 +39,11 @@ public class Reader extends Book {
         this.readerAge = readerAge;
     }
 
- /*   public void findBook(){
+    public void setReaderPhoneNumber(int readerPhoneNumber) {
+        this.readerPhoneNumber = readerPhoneNumber;
+    }
 
-        Scanner in = new Scanner(System.in);
-        String cardReader;
-        cardReader = in.nextLine();
-        if ((cardReader.equals()) == true){
 
-            System.out.println("Читатель с именем: " + readerFullName + " взял книгу " + bookName);
-        }*/
 
 
 }
