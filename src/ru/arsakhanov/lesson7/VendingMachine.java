@@ -10,10 +10,8 @@ public class VendingMachine extends NullPointerException {
             System.out.println(select);
         }
 
-
-
-
         Scanner in = new Scanner(System.in);
+
         System.out.println("Внесите деньги на внутренний счет:");
         int userWallet = in.nextInt();
 
@@ -27,8 +25,6 @@ public class VendingMachine extends NullPointerException {
                         userDrink = drinks;
                     }
                 }
-
-
                 switch (userDrink){
                     case PEPSI_1_100:
                         if (userWallet >= 100) {
