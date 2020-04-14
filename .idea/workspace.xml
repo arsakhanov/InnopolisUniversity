@@ -4,7 +4,7 @@
     <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/SpecialContract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Contract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" afterDir="false" />
@@ -33,14 +33,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+            <state relative-caret-position="247">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -78,7 +87,6 @@
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson6/Book.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson6/Reader.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task2/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task3/Count.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Tiger.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Lion.java" />
@@ -110,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" />
       </list>
     </option>
   </component>
@@ -157,7 +166,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ru" type="462c0819:PsiDirectoryNode" />
               <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson11" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson8" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586869510612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586869800448" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -292,7 +310,7 @@
       <workItem from="1586370405536" duration="2156000" />
       <workItem from="1586447817348" duration="5344000" />
       <workItem from="1586577447647" duration="15000" />
-      <workItem from="1586854210042" duration="9947000" />
+      <workItem from="1586854210042" duration="10234000" />
     </task>
     <task id="LOCAL-00001" summary="дополнительная задача для дз 3-2">
       <created>1585066985928</created>
@@ -371,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586866062507</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Урок 11 улучшенный функционал(проверка без учета регистра)">
+      <created>1586869603382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586869603382</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102166000" />
+    <option name="totallyTimeSpent" value="102453000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,8 +413,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,7 +424,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,7 +490,8 @@
     <MESSAGE value="Урок 7 Исправленный" />
     <MESSAGE value="Урок 11" />
     <MESSAGE value="Урок 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 13" />
+    <MESSAGE value="Урок 11 улучшенный функционал(проверка без учета регистра)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 11 улучшенный функционал(проверка без учета регистра)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -567,16 +594,6 @@
             <element signature="e#377#378#0" expanded="true" />
             <element signature="e#811#812#0" expanded="true" />
             <element signature="e#878#879#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -843,11 +860,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+        <state relative-caret-position="247">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
