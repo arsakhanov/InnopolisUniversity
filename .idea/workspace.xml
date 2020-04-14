@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Food.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/SpecialContract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Contract.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" afterDir="false" />
@@ -37,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,11 +47,42 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/DontLikeFoodException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Food.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -61,6 +94,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -115,10 +149,12 @@
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/OutputName.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Food.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/DontLikeFoodException.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java" />
       </list>
     </option>
   </component>
@@ -134,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,28 +201,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ru" type="462c0819:PsiDirectoryNode" />
               <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson8" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586869800448" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586877889538" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -203,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Censor">
+  <component name="RunManager" selected="Application.Mom">
     <configuration name="Censor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson11.Censor" />
       <module name="MyHomeWork" />
@@ -271,8 +298,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Censor" />
         <item itemvalue="Application.Mom" />
+        <item itemvalue="Application.Censor" />
         <item itemvalue="Application.OutputName" />
         <item itemvalue="Application.VendingMachine" />
         <item itemvalue="Application.Conversion" />
@@ -310,7 +337,8 @@
       <workItem from="1586370405536" duration="2156000" />
       <workItem from="1586447817348" duration="5344000" />
       <workItem from="1586577447647" duration="15000" />
-      <workItem from="1586854210042" duration="10234000" />
+      <workItem from="1586854210042" duration="10455000" />
+      <workItem from="1586876378331" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="дополнительная задача для дз 3-2">
       <created>1585066985928</created>
@@ -396,11 +424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586869603382</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Урок 8. Задача 1 переместил вывод строки поверх ввода радиуса круга">
+      <created>1586869985152</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586869985152</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102453000" />
+    <option name="totallyTimeSpent" value="104124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,7 +450,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19591528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,7 +459,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,7 +526,8 @@
     <MESSAGE value="Урок 11" />
     <MESSAGE value="Урок 13" />
     <MESSAGE value="Урок 11 улучшенный функционал(проверка без учета регистра)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 11 улучшенный функционал(проверка без учета регистра)" />
+    <MESSAGE value="Урок 8. Задача 1 переместил вывод строки поверх ввода радиуса круга" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 8. Задача 1 переместил вывод строки поверх ввода радиуса круга" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -580,21 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task2/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#811#812#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,38 +861,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task2/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/DontLikeFoodException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Mom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
