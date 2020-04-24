@@ -27,6 +27,7 @@ public class VendingMachine extends NullPointerException {
         Drink[] drinks = new Drink[]{Drink.PEPSI, Drink.SPRITE, Drink.COLA, Drink.PEPSI};
         for (int i = 0; i < drinks.length; i++){
             System.out.println("№ " + (i+1) + " " + drinks[i] + " " + drinks[i].getPrice());
+            logr.log(Level.INFO, "№ " + (i+1) + " " + drinks[i] + " " + drinks[i].getPrice());
         }
 
         System.out.println("Внесите деньги на внутренний счет:");
@@ -41,17 +42,29 @@ public class VendingMachine extends NullPointerException {
                     if (userNumber-1 == i) {
                         if (userWallet >= drinks[i].price) {
                             System.out.println("Возьмите свой заказ: " + drinks[i]);
+                            logr.log(Level.INFO, "Пользовател взял заказ: " + drinks[i]);
                             System.out.println("И не забудьте сдачи: " + (userWallet - drinks[i].price));
+                            logr.log(Level.INFO, "Пользователю полагалась сдача в размере: " + (userWallet - drinks[i].price));
                         } else if (userWallet < drinks[i].price) {
+                            System.out.println("У вас недостаточно денег!");
                             logr.log(Level.WARNING, "У вас недостаточно денег");
                         }
                     }
                 }
-            }else logr.log(Level.SEVERE, "Вы ввели неправильный номер заказа"); //System.out.println("Вы ввели неправильный номер заказа");
-        }else logr.log(Level.SEVERE, "Вы не внесли деньги на счет"); //System.out.println("Вы не внесли деньги на счет");
+            }else {
+                System.out.println("Вы ввели неправильный номер заказа");
+                logr.log(Level.SEVERE, "Вы ввели неправильный номер заказа");
+            }
+        }else {
+            System.out.println("Вы не внесли деньги на счет");
+            logr.log(Level.SEVERE, "Вы не внесли деньги на счет");
+        }
 
     }
 
+    /**
+     *В Перечислении хранятся названия соков, которыми может похвастаться вендинговая машина
+     */
     public enum Drink{
         PEPSI(100),
         SPRITE(100),
