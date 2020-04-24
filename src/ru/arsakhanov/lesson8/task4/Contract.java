@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Contract {
 
-    private int number;
+    protected int number;
     private String data;
     private ArrayList<String> productList = null;
 

@@ -10,6 +10,7 @@ public class Conversion {
         ArrayList<String> arrayList = new ArrayList<>(Arrays.asList("Яблоки", "Груши", "Апельсины", "Мандарины"));
         Contract contract = new Contract(1, "6.04.2020", arrayList);
         System.out.println(Contract.getAct(contract).toString());
+
     }
 
 }
