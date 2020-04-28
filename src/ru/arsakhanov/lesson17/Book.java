@@ -20,24 +20,6 @@ public class Book {
     }
 
 
-    /**
-     * Метода ищет файл по указанному пути и считывает из него данные
-     */
-    public static void showListOfBooks(){
-       try {
-           File file = new File("E://Games//Library.txt");
-           FileReader fileReader = new FileReader(file);
-           BufferedReader bufferedReader = new BufferedReader(fileReader);
-           String line;
-           while ((line = bufferedReader.readLine())!=null){
-               System.out.println(line);
-           }
-           bufferedReader.close();
-       }catch (IOException e){
-           e.getMessage();
-       }
-    }
-
     @Override
     public String toString() {
         return "Book{" +

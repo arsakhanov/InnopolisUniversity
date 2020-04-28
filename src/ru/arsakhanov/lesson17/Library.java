@@ -5,27 +5,36 @@ import java.util.ArrayList;
 
 public class Library {
 
-    public static void main(String[] args) {
-
-        ArrayList<Book> bookArrayList = new ArrayList<>(); //создайю Arraylist, чтобы можно было добавлять новые книги в массив и не париться насчет размера
-
-        bookArrayList.add(new Book("1984", "Oruel", "1995"));
-        bookArrayList.add(new Book("The lord of the ring", "Tolkien", "1994"));
-        bookArrayList.add(new Book("The witcher", "Sapkovski", "1993"));
-
-        //Здесь я записываю все книги в файл на диске
-        try{
-            File file = new File("E://Games//Library.txt");
-            FileWriter fileWriter = new FileWriter(file);
-            BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+    public static void addBooks(ArrayList<Book> bookArrayList){
+        File file = new File("resources//LibLauncher.txt");
+        try(BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file))){
             for(Book s: bookArrayList){
                 bufferedWriter.write(s + "\n");
             }
-            bufferedWriter.close();
         }catch (IOException e){
-            e.getMessage();
+            System.out.println(e.getMessage());
+        }
+    }
+
+    /**
+     * Метода ищет файл по указанному пути и считывает из него данные
+     */
+    public static void showListOfBooks(){
+
+        try {
+            File file = new File("resources//LibLauncher3.txt");
+            FileReader fileReader = new FileReader(file);
+            BufferedReader bufferedReader = new BufferedReader(fileReader);
+            String line;
+            while ((line = bufferedReader.readLine())!=null){
+                System.out.println(line);
+            }
+            bufferedReader.close();
+        }catch (IOException e){
+            //System.out.println(e);
+            e.printStackTrace();
+            e.getStackTrace();
         }
 
-        Book.showListOfBooks();
     }
 }
