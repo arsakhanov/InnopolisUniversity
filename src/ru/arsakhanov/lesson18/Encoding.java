@@ -1,21 +1,14 @@
 package ru.arsakhanov.lesson18;
 
 import java.io.*;
-import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.nio.file.StandardCopyOption;
-
 
 public class Encoding {
 
     public static void main(String[] args) {
 
-
         try{
             BufferedReader br = new BufferedReader(new FileReader("E://Games//MyCode.txt"));
-            BufferedWriter bw = new BufferedWriter(new FileWriter("E://Games//MyCodeCopy.txt"));
+            BufferedWriter bw = new BufferedWriter(new FileWriter("resources//MyCodeCopy.txt"));
             String line;
             String encoding;
             byte[] c;
@@ -31,8 +24,5 @@ public class Encoding {
         catch(IOException e){
             System.out.println(e.getMessage());
         }
-
-
-
     }
 }
