@@ -37,6 +37,7 @@ public class Receipt {
                     cost = 0;
                 }
             }
+            f.close();
             System.out.println("=============================================================");
             System.out.printf("Итого %55.2f",totalCost);
         }catch (IOException e){
