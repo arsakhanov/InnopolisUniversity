@@ -1,0 +1,14 @@
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: В коллекцию добавили product - Яблоки и quantity - 55
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: В коллекцию добавили product - Груши и quantity - 70
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: В коллекцию добавили product - Бананы и quantity - 60
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: В коллекцию добавили product - Апельсины и quantity - 30
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: В коллекции обновили количество бананов на 100
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: Из коллекции удалили product - Бананы и их количество quantity
+мая 16, 2020 10:53:38 PM ru.arsakhanov.lesson23.BasketMain main
+INFO: Очистили всю коллекуию удалив из него все объекты
