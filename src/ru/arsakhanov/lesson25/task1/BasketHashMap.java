@@ -12,8 +12,11 @@ public class BasketHashMap implements Basket {
 
     @Override
     public void addProduct(String product, int quantity) {
-        map.put(product, quantity);
+        if(map.containsKey(product)){
+            map.replace(product, quantity);
+        }else map.put(product, quantity);
     }
+
 
     @Override
     public void removeProduct(String product) {

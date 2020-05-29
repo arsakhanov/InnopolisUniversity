@@ -33,9 +33,9 @@ public class IsUniqueMap{
     public static boolean isUnique(Map<String, String> map){
         Set<String> set = new HashSet<>();
        for(Map.Entry<String, String> entry: map.entrySet()){
-           if (set.contains(entry.getValue())) {
+           if (!set.add(entry.getValue())) {
                return false;
-            } else set.add(entry.getValue());
+            }
            }
        return true;
     }

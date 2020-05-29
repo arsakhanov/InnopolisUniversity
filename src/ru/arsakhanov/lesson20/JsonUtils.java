@@ -1,6 +1,5 @@
 package ru.arsakhanov.lesson20;
 
-
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
@@ -23,7 +22,6 @@ public class JsonUtils {
      * @param url - ссылка в виде объекта URL (Uniform Resource Locator)
      * @return содержимое страницы на указанной ссылке в @param url
      */
-
     public static String parseUrl(URL url) {
         if (url == null) {
             return "";
