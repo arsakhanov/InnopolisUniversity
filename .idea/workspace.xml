@@ -4,14 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson15/WorkWithFiles.java" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="Урок 24">
+    <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="Урок 23, 24, 25 Исправил доработки">
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson29/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson29/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson20/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson20/JsonUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson23/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson23/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson23/BasketArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson23/BasketArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson24/RemoveEvenLenth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson24/RemoveEvenLenth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/BasketHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/BasketHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task2/IsUniqueMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task2/IsUniqueMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task2/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task2/Duck.java" afterDir="false" />
     </list>
@@ -39,55 +36,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson23/BasketArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task2/IsUniqueMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="53" column="33" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/BasketHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson23/BasketMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task2/IsUniqueMap.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="52" lean-forward="true" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson24/RemoveEvenLenth.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson29/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="-9">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson29/TestHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,10 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task3/Runner.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task3/Swimmer.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson7/Rabota.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Act.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task2/Duck.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/SpecialContract.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Contract.java" />
@@ -163,6 +145,10 @@
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson27/FibonacciSeries.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson24/RemoveEvenLenth.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/BasketHashMap.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson29/Person.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson29/SimpleHashSet.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson29/TestHashMap.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" />
       </list>
     </option>
   </component>
@@ -213,48 +199,6 @@
             </path>
             <path>
               <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson23" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson25" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson25" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -270,7 +214,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590754491287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591069660841" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/json-simple-1.1.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -295,20 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FibonacciSeries">
-    <configuration name="ComparatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson22.ComparatorMain" />
-      <module name="MyHomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.arsakhanov.lesson22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NonRepeatingChar">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson27.FibonacciSeries" />
       <module name="MyHomeWork" />
@@ -348,12 +279,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveEvenLenth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson24.RemoveEvenLenth" />
+    <configuration name="NonRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson30.NonRepeatingChar" />
       <module name="MyHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.arsakhanov.lesson24.*" />
+          <option name="PATTERN" value="ru.arsakhanov.lesson30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson29.TestHashMap" />
+      <module name="MyHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.arsakhanov.lesson29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonRepeatingChar" />
+        <item itemvalue="Application.TestHashMap" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.IsUniqueMap" />
         <item itemvalue="Application.MainBasket" />
-        <item itemvalue="Application.RemoveEvenLenth" />
-        <item itemvalue="Application.ComparatorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +395,8 @@
       <workItem from="1590320992334" duration="4154000" />
       <workItem from="1590494832021" duration="5441000" />
       <workItem from="1590663472992" duration="1901000" />
-      <workItem from="1590753877592" duration="588000" />
+      <workItem from="1590753877592" duration="1307000" />
+      <workItem from="1591005464324" duration="11814000" />
     </task>
     <task id="LOCAL-00001" summary="дополнительная задача для дз 3-2">
       <created>1585066985928</created>
@@ -712,13 +657,20 @@
       <option name="project" value="LOCAL" />
       <updated>1590753920368</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Урок 23, 24, 25 Исправил доработки">
+      <created>1590754578500</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1590754578500</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309407000" />
+    <option name="totallyTimeSpent" value="321940000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -731,7 +683,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36686838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1580938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -739,8 +691,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" weight="0.3289689" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -797,7 +749,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Урок 11 улучшенный функционал(проверка без учета регистра)" />
     <MESSAGE value="Урок 8. Задача 1 переместил вывод строки поверх ввода радиуса круга" />
     <MESSAGE value="Урок 13. Доработанная версия" />
     <MESSAGE value="Урок 14. Вендинговый автомат с логированием" />
@@ -822,55 +773,14 @@
     <MESSAGE value="Урок 25, задача 1" />
     <MESSAGE value="Урок 25, задача 2" />
     <MESSAGE value="Урок 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 27" />
+    <MESSAGE value="Урок 23, 24, 25 Исправил доработки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 23, 24, 25 Исправил доработки" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/SpecialContract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Contract.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Act.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task2/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1012,16 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson20/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1318">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson18/Encoding.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -1092,13 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="239" column="6" lean-forward="true" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson21/task1/InitializationAndPrintArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -1130,13 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/MainBasket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson27/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1144,13 +1030,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson23/Position.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson23/Position.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson23/BasketArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="833">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="33" />
           <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1165,20 +1051,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson23/BasketArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson20/JsonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson24/RemoveEvenLenth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1187,18 +1063,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/BasketHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="294">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1523" selection-start-line="1523" selection-end-line="1523" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="146" column="12" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson24/RemoveEvenLenth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task1/MainBasket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson25/task2/IsUniqueMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="52" lean-forward="true" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        <state relative-caret-position="200">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson29/SimpleHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson29/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson29/TestHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
