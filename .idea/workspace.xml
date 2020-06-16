@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="Урок 23, 24, 25 Исправил доработки">
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson31/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" afterDir="false" />
@@ -36,23 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-117">
-              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson31/Palindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+            <state relative-caret-position="223">
+              <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -74,10 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task4/Conversion.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/OutputName.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson11/Censor.java" />
-        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson8/task1/Example.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Food.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/DontLikeFoodException.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson13/Child.java" />
@@ -125,6 +110,10 @@
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson29/TestHashMap.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" />
         <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson31/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java" />
       </list>
     </option>
   </component>
@@ -146,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,48 +164,12 @@
             </path>
             <path>
               <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson21" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson21" type="462c0819:PsiDirectoryNode" />
-              <item name="task1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson21" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyHomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="arsakhanov" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson30" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyHomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +179,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591687476413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591858547558" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/json-simple-1.1.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -249,13 +204,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson27.FibonacciSeries" />
+  <component name="RunManager" selected="Application.MaxOccuringCharacter">
+    <configuration name="LeafCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson32.LeafCount" />
       <module name="MyHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.arsakhanov.lesson27.*" />
+          <option name="PATTERN" value="ru.arsakhanov.lesson32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsUniqueMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson25.task2.IsUniqueMap" />
+    <configuration name="MaxOccuringCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.arsakhanov.lesson33.MaxOccuringCharacter" />
       <module name="MyHomeWork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.arsakhanov.lesson25.task2.*" />
+          <option name="PATTERN" value="ru.arsakhanov.lesson33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxOccuringCharacter" />
+        <item itemvalue="Application.LeafCount" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.TestHashMap" />
         <item itemvalue="Application.NonRepeatingChar" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.IsUniqueMap" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +364,9 @@
       <workItem from="1591005464324" duration="17633000" />
       <workItem from="1591105806477" duration="3576000" />
       <workItem from="1591439546834" duration="2518000" />
-      <workItem from="1591682521532" duration="4904000" />
+      <workItem from="1591682521532" duration="23423000" />
+      <workItem from="1591770756660" duration="4714000" />
+      <workItem from="1592301698204" duration="982000" />
     </task>
     <task id="LOCAL-00001" summary="дополнительная задача для дз 3-2">
       <created>1585066985928</created>
@@ -691,11 +648,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591112801187</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Урок 31">
+      <created>1591687598082</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1591687598082</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338757000" />
+    <option name="totallyTimeSpent" value="362972000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -709,6 +673,37 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50832075" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.08245083" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16490166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -738,44 +733,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.08245083" />
       <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50832075" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.32980332" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.08245083" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32980332" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Урок 14. Вендинговый автомат с логированием" />
     <MESSAGE value="Урок 15" />
     <MESSAGE value="Урок 17" />
     <MESSAGE value="Урок 14 Добавил еще немного логов" />
@@ -800,38 +763,14 @@
     <MESSAGE value="Урок 23, 24, 25 Исправил доработки" />
     <MESSAGE value="Урок 30" />
     <MESSAGE value="Урок 29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 29" />
+    <MESSAGE value="Урок 31" />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 31" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson17/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson17/LibLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson17/Library.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson20/JSONObject.java" />
     <entry file="jar://$USER_HOME$/Desktop/json-simple-1.1.jar!/org/json/simple/JSONObject.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-714">
@@ -1091,20 +1030,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson29/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -1140,16 +1065,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson21/task2/ReverceArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
@@ -1157,10 +1072,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/Heap.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/Node.java" />
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson31/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+        <state relative-caret-position="17">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-610">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
         </state>
       </provider>
     </entry>
