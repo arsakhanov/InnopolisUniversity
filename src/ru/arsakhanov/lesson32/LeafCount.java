@@ -5,7 +5,7 @@ public class LeafCount {
 
         BinaryTree bt = new BinaryTree();
 
-        bt.insert(5, null);
+        bt.insert(5, "hello");
         bt.insert(10, null);
         bt.insert(3, null);
         bt.insert(15, null);
@@ -15,6 +15,7 @@ public class LeafCount {
         bt.insert(20, null);
         bt.insert(12, null);
         bt.insert(23, null);
+        bt.insert(5,"hai");
 
         int count = bt.printLevelOrder();
         System.out.println("Количетсво листьев в дереве: " + count);

@@ -29,8 +29,8 @@ public class MaxOccuringCharacter {
         }
 
         char key = Collections.max(map.entrySet(), Map.Entry.comparingByValue()).getKey();
-        int value = Collections.max(map.entrySet(), Map.Entry.comparingByValue()).getValue();
-        System.out.println("Character: " + key + " has occuring maximum times in String: " + value);
+        int value = map.get(key);
+        System.out.println("Character: \"" + key + "\" has\t occuring maximum\n times in String: " + value);
 
     }
 }

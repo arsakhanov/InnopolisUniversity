@@ -24,21 +24,26 @@ public class BinaryTree {
             root = node;
         } else {
             Node current = root;
-            Node prev = null;
-            while (true) {
+            Node prev;
+
+            boolean isSerchFinished = false;
+            while(!isSerchFinished) {
                 prev = current;
                 if (key < prev.key) {
                     current = current.leftChild;
                     if (current == null) {
                         prev.leftChild = node;
-                        return;
+                        isSerchFinished = true;
                     }
-                } else {
+                } else if (key>prev.key){
                     current = current.rightChild;
                     if (current == null) {
                         prev.rightChild = node;
-                        return;
+                        isSerchFinished = true;
                     }
+                }else {
+                    System.out.println("Данные по ключу " + key + " уже записаны");
+                    isSerchFinished = true;
                 }
             }
         }
@@ -60,7 +65,7 @@ public class BinaryTree {
 
         while (!nodes.isEmpty()) {
             Node node = nodes.remove();
-            node.printNode();
+            System.out.println(node);
             if (node.leftChild != null) {
                 nodes.add(node.leftChild);
             }

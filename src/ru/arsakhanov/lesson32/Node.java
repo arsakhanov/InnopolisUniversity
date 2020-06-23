@@ -6,11 +6,19 @@ public class Node {
     public Node leftChild; //левый потомок
     public Node rightChild; //правый потомок
 
+    @Override
+    public String toString() {
+        return "Node{" +
+                "key=" + key +
+                ", data='" + data + '\'' +
+                '}';
+    }
+
     /**
      * Метод который выводит на экран содержимое узла
      */
-    public void printNode(){
+   /* public void printNode(){
         System.out.println("KEY " + key + " DATA: " + data);
-    }
+    }*/
 
 }

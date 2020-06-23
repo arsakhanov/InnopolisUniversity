@@ -4,13 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson15/WorkWithFiles.java" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="Урок 23, 24, 25 Исправил доработки">
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java" afterDir="false" />
+    <list default="true" id="f8f391e1-42e0-486d-b651-e9f022879865" name="Default Changelist" comment="gitignor  добавил .idea и сопутствующие файлы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task1/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task2/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/arsakhanov/lesson9/task2/Duck.java" afterDir="false" />
     </list>
@@ -37,11 +37,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+            <state relative-caret-position="255">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="3" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -135,8 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +198,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +209,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591858547558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592916570961" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/json-simple-1.1.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -367,6 +397,10 @@
       <workItem from="1591682521532" duration="23423000" />
       <workItem from="1591770756660" duration="4714000" />
       <workItem from="1592301698204" duration="982000" />
+      <workItem from="1592302928603" duration="375000" />
+      <workItem from="1592319494534" duration="1062000" />
+      <workItem from="1592811367596" duration="599000" />
+      <workItem from="1592915631720" duration="1522000" />
     </task>
     <task id="LOCAL-00001" summary="дополнительная задача для дз 3-2">
       <created>1585066985928</created>
@@ -655,11 +689,32 @@
       <option name="project" value="LOCAL" />
       <updated>1591687598082</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="gitignor  добавил .idea и сопутствующие файлы">
+      <created>1592303092504</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1592303092504</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Lesson32">
+      <created>1592303143384</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1592303143384</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Lesson33">
+      <created>1592303163036</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1592303163036</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362972000" />
+    <option name="totallyTimeSpent" value="366530000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -672,8 +727,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -682,7 +738,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49167928" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -739,9 +795,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Урок 15" />
-    <MESSAGE value="Урок 17" />
-    <MESSAGE value="Урок 14 Добавил еще немного логов" />
     <MESSAGE value="Урок 15. Добавил комментарии для документации" />
     <MESSAGE value="Урок 8. Доделанная версия" />
     <MESSAGE value="Урок 18" />
@@ -764,30 +817,16 @@
     <MESSAGE value="Урок 30" />
     <MESSAGE value="Урок 29" />
     <MESSAGE value="Урок 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Урок 31" />
+    <MESSAGE value="gitignor  добавил .idea и сопутствующие файлы" />
+    <MESSAGE value="Lesson32" />
+    <MESSAGE value="Lesson33" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson33" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Desktop/json-simple-1.1.jar!/org/json/simple/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson15/WorkWithFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson13/DontLikeFoodException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1081,34 +1120,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-610">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson30/NonRepeatingChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -1119,10 +1130,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="3" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/LeafCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson32/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/arsakhanov/lesson33/MaxOccuringCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
